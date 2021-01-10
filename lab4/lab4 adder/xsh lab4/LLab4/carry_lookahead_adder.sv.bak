@@ -1,0 +1,133 @@
+module carry_lookahead_adder
+(
+    input   logic[15:0]     A,
+    input   logic[15:0]     B,
+    output  logic[15:0]     Sum,
+    output  logic           CO
+);
+  logic [3:0] P;
+  logic [3:0] G;
+  logic [3:0] C;
+  assign C[0] = 0;
+  assign C[1] = 0;
+  assign C[2] = 0;
+  assign C[3] = 0;
+  
+  //first we get P and G
+  always_comb
+  begin
+  four_bit_cla F0(.A(A[3:0]), .B(B[3:0]), .Cin(C[0]), .Pg(P[0]), .Gg(G[0]), .Ss(Sum[3:0]));
+  four_bit_cla F1(.A(A[7:4]), .B(B[7:4]), .Cin(C[1]), .Pg(P[1]), .Gg(G[1]), .Ss(Sum[7:4]));
+  four_bit_cla F2(.A(A[11:8]), .B(B[11:8]), .Cin(C[2]), .Pg(P[2]), .Gg(G[2]), .Ss(Sum[11:8]));
+  four_bit_cla F3(.A(A[15:12]), .B(B[15:12]), .Cin(C[3]), .Pg(P[3]), .Gg(G[3]), .Ss(Sum[15:12]));
+  end
+  
+  //second we calculate C
+  always_comb
+  begin
+  C[0] = 0;
+  C[1] = G[0];
+  C[2] = G[1] | (G[0] & P[1]);
+  C[3] =  G[2] | (G[1] & P[2]) | (G[0] & P[1] & P[2]);
+  CO = (C[3] & P[3]) | G[3];
+  
+  
+
+  end 
+	  
+     
+endmodule
+
+//the basic component of the CLA
+module two_bit_adder
+( 
+  input  logic A,
+  input  logic B,
+  input  logic C,
+  output logic S,
+  output logic P,
+  output logic G
+  );
+  //assign value to the three outputs
+  assign S = (A&B) | (A&C) | (B&C);
+  assign P = A ^ B;
+  assign G = A & B;
+
+endmodule
+
+//the module of a single 4*4 CLA
+module  four_bit_cla
+( 
+  input logic[3:0] A,
+  input logic[3:0] B,
+  input logic Cin,
+  output logic Pg,
+  output logic Gg,
+  output logic[3:0] Ss
+ );
+  //Variable declearation
+  logic [3:0] Ps;
+  logic [3:0] Gs;
+  logic [3:0] Cs;
+  assign Cs[0] = Cin;
+  assign Cs[1] = 0;
+  assign Cs[2] = 0;
+  assign Cs[3] = 0;
+  //first we collect Ps and Qs
+  always_comb 
+  begin 
+        two_bit_adder F0(.A(A[0]), .B(B[0]), .C(Cs[0]), .S(Ss[0]), .P(Ps[0]), .G(Gs[0]);
+		  two_bit_adder F1(.A(A[1]), .B(B[1]), .C(Cs[1]), .S(Ss[1]), .P(Ps[1]), .G(Gs[1]);
+		  two_bit_adder F2(.A(A[2]), .B(B[2]), .C(Cs[2]), .S(Ss[2]), .P(Ps[2]), .G(Gs[2]);
+		  two_bit_adder F3(.A(A[3]), .B(B[3]), .C(Cs[3]), .S(Ss[3]), .P(Ps[3]), .G(Gs[3]);
+  end
+  //second we compute Cs and Pg and Gg
+  always_comb
+  begin
+        Cs[0] = Cin;
+		  Cs[1] = (Cin & Ps[0]) | Gs[0];
+		  Cs[2] = (Cin & Ps[0] & Ps[1]) | (Gs[0] & Ps[1]) | Gs[1];
+		  Cs[3] = (Cin & Ps[0] & Ps[1] & Ps[2]) | (Gs[0] & Ps[1] & Ps[2]) | (Gs[1] & Ps[2]) | Gs[2];
+		  Pg = Ps[0] & Ps[1] & Ps[2] & Ps[3];
+		  Gg = Gs[3] | (Gs[2] & Ps[3]) | (Gs[1] & Ps[3] & Ps[2]) | (Gs[0] & Ps[3] & Ps[2] & Ps[1]);
+  end
+  
+  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,6 @@
+module NZP(input logic Clk,LD.BEN
+					input logic[15:0] IR,
+					input logic [15:0]NZP_value_IN,
+					output logic NZP_value_OUT,
+						
+					);

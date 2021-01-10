@@ -1,0 +1,30 @@
+
+module memory_datapath( 
+								input logic GateMDR,LD_MDR,MIO_EN,LD_MAR,Clk,
+								input logic[15:0] Data_to_CPU,
+								output logic[15:0] Data_from_CPU,
+								output logic[15:0] MAR,
+								inout wire[15:0] BUS
+								);
+logic [15:0] MDR;
+
+tristate MDR_tri(.Clk(clk), .tristate_output_enable(GateMDR), .Data_write(MDR), .Data(BUS));
+
+always_ff
+	begin
+	if(LD_MAR)
+		MAR<=BUS;
+	end
+	
+always_ff
+	begin
+	if(LD_MDR & MIO_EN)
+		MDR<=Data_to_CPU;
+	else if(LD_MDR & ~MIO_EN)
+		MDR<=BUS;
+	
+	end
+	
+assign  Data_from_CPU=MDR;
+
+endmodule 

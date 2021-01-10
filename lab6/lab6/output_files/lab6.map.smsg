@@ -1,0 +1,4 @@
+Warning (10273): Verilog HDL warning at HexDriver.sv(24): extended using "x" or "z" File: D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/HexDriver.sv Line: 24
+Info (10281): Verilog HDL Declaration information at NZP.sv(7): object "n" differs only in case from object "N" in the same scope File: D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/NZP.sv Line: 7
+Info (10281): Verilog HDL Declaration information at NZP.sv(7): object "z" differs only in case from object "Z" in the same scope File: D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/NZP.sv Line: 7
+Info (10281): Verilog HDL Declaration information at NZP.sv(7): object "p" differs only in case from object "P" in the same scope File: D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/NZP.sv Line: 7

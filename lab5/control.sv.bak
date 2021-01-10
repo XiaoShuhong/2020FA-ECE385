@@ -1,0 +1,112 @@
+module control(
+
+
+input logic run;
+input logic clearA_loadB;
+input logic clk;
+input logic reset;
+
+
+
+output logic add;
+output logic sub;
+output logic shift;
+output logic clear_XA;
+output logic clr_ld;
+output logic reset_out;
+
+);
+
+assign clr_ld=clearA_loadB;
+assign reset_out=reset;
+
+
+
+enum logic [2:0] {A, B, C, D, E, F}   curr_state, next_state; 
+
+
+ always_ff @ (posedge Clk)  
+ begin
+	if (Reset or clearA_loadB )
+		curr_state <= A;
+   else 
+		curr_state <= next_state;
+ end
+ 
+ always_comb begin 
+ 
+ next_state  = curr_state;
+ 
+         unique case (curr_state) 
+
+            A :    if (run)
+                       next_state = B;
+            B :    next_state = C;			
+            C :   begin  
+						 if(counter_number==7)
+								next_state = D;
+						 else
+							next_state = B;
+						 end
+				
+            D :    next_state = E;
+            E :    next_state = F;
+				F :	 next_state = A;
+						
+        endcase
+ 
+ 
+ 
+ case (curr_state) 
+	A: begin
+	
+		add=0;
+		sub=0;
+		shift=0;
+		clear_XA=0;
+		end
+		
+	J: begin
+	
+		add=0;
+		sub=0;
+		shift=0;
+		clear_XA=1;
+		end 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ endcase
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ end

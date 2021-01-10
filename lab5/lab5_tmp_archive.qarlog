@@ -1,0 +1,26 @@
+Quartus Prime Archive log --	D:/2020FA/ECE385/lab5/lab5_tmp_archive.qarlog
+
+Archive:	D:/2020FA/ECE385/lab5/lab5_tmp_archive.qar
+Date:		Wed Oct 21 08:56:26 2020
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/2020FA/ECE385/lab5/HexDriver.sv
+D:/2020FA/ECE385/lab5/adder.sv
+D:/2020FA/ECE385/lab5/control.sv
+D:/2020FA/ECE385/lab5/lab5.qpf
+D:/2020FA/ECE385/lab5/lab5.qsf
+D:/2020FA/ECE385/lab5/register.sv
+D:/2020FA/ECE385/lab5/testbench .sv
+D:/2020FA/ECE385/lab5/top_level.sv
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Wed Oct 21 08:56:28 2020
+Source archive file:	D:/2020FA/ECE385/lab5/lab5_tmp_archive.qar
+Archive was extracted into	G:/ECE385_lab5/Lu_Yicheng_Xiao_Shuhong/
+		 - successfully.

@@ -1,0 +1,110 @@
+# Reading C:/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do lab5_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+D:/2020FA/ECE385/lab5 {D:/2020FA/ECE385/lab5/HexDriver.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:12 on Oct 28,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/2020FA/ECE385/lab5" D:/2020FA/ECE385/lab5/HexDriver.sv 
+# -- Compiling module HexDriver
+# 
+# Top level modules:
+# 	HexDriver
+# End time: 19:18:12 on Oct 28,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/2020FA/ECE385/lab5 {D:/2020FA/ECE385/lab5/register.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:12 on Oct 28,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/2020FA/ECE385/lab5" D:/2020FA/ECE385/lab5/register.sv 
+# -- Compiling module register
+# 
+# Top level modules:
+# 	register
+# End time: 19:18:12 on Oct 28,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/2020FA/ECE385/lab5 {D:/2020FA/ECE385/lab5/adder.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:12 on Oct 28,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/2020FA/ECE385/lab5" D:/2020FA/ECE385/lab5/adder.sv 
+# -- Compiling module adder
+# -- Compiling module full_adder
+# -- Compiling module four_bits_ripple_adder
+# 
+# Top level modules:
+# 	adder
+# End time: 19:18:12 on Oct 28,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/2020FA/ECE385/lab5 {D:/2020FA/ECE385/lab5/control.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:12 on Oct 28,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/2020FA/ECE385/lab5" D:/2020FA/ECE385/lab5/control.sv 
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# End time: 19:18:12 on Oct 28,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/2020FA/ECE385/lab5 {D:/2020FA/ECE385/lab5/top_level.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:13 on Oct 28,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/2020FA/ECE385/lab5" D:/2020FA/ECE385/lab5/top_level.sv 
+# -- Compiling module top_level
+# 
+# Top level modules:
+# 	top_level
+# End time: 19:18:13 on Oct 28,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+D:/2020FA/ECE385/lab5 {D:/2020FA/ECE385/lab5/testbench .sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:18:13 on Oct 28,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/2020FA/ECE385/lab5" D:/2020FA/ECE385/lab5/testbench .sv 
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 19:18:13 on Oct 28,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  testbench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" testbench 
+# Start time: 19:18:13 on Oct 28,2020
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.top_level
+# Loading work.register
+# Loading work.adder
+# Loading work.four_bits_ripple_adder
+# Loading work.full_adder
+# Loading work.control
+# Loading work.HexDriver
+# ** Warning: (vsim-3017) D:/2020FA/ECE385/lab5/top_level.sv(98): [TFMPC] - Too few port connections. Expected 11, found 10.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/lab5_toplevel0/my_control File: D:/2020FA/ECE385/lab5/control.sv
+# ** Warning: (vsim-3722) D:/2020FA/ECE385/lab5/top_level.sv(98): [TFMPC] - Missing connection for port 'count'.
+# ** Warning: (vsim-3017) D:/2020FA/ECE385/lab5/control.sv(34): [TFMPC] - Too few port connections. Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/lab5_toplevel0/my_control/own_adder File: D:/2020FA/ECE385/lab5/adder.sv
+# ** Warning: (vsim-3015) D:/2020FA/ECE385/lab5/control.sv(34): [PCDPC] - Port size (1) does not match connection size (32) for port 'c0'. The port definition is at: D:/2020FA/ECE385/lab5/adder.sv(68).
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/lab5_toplevel0/my_control/own_adder File: D:/2020FA/ECE385/lab5/adder.sv
+# ** Warning: (vsim-3722) D:/2020FA/ECE385/lab5/control.sv(34): [TFMPC] - Missing connection for port 'c4'.
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 10000 ns
+# ** Warning: (vsim-8315) D:/2020FA/ECE385/lab5/control.sv(58): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/lab5_toplevel0/my_control
+# ** Warning: (vsim-8315) D:/2020FA/ECE385/lab5/control.sv(58): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 1  Instance: /testbench/lab5_toplevel0/my_control
+# Success!
+# End time: 19:18:57 on Oct 28,2020, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 7

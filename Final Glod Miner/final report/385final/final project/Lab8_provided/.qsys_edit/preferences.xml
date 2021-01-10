@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="47" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library expandedCategories="Library,Project/gold_miner,Project" />
+ <window width="974" height="1032" x="19" y="297" />
+</preferences>

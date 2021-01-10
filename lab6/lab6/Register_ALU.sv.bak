@@ -1,0 +1,10 @@
+module Register_ALU(input logic Clk,
+						input logic[15:0] value_IN,
+						input logic DR,
+						input logic SR1,
+						input logic LD.REG,
+						input logic [2:0]SR2,
+						input logic[1:0]ALUK,
+						input logic [4:0]imm5,
+						input logic SR2MUX,
+						output logic [15:0]value_OUT);

@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SBR1",
+					"strict" : false
+				},
+				{
+					"name" : "SBR0",
+					"strict" : false
+				},
+				{
+					"name" : "QA1",
+					"strict" : false
+				},
+				{
+					"name" : "QB1",
+					"strict" : false
+				},
+				{
+					"name" : "QC1",
+					"strict" : false
+				},
+				{
+					"name" : "QD1",
+					"strict" : false
+				},
+				{
+					"name" : "QA0",
+					"strict" : false
+				},
+				{
+					"name" : "QB0",
+					"strict" : false
+				},
+				{
+					"name" : "QC0",
+					"strict" : false
+				},
+				{
+					"name" : "QD0",
+					"strict" : false
+				},
+				{
+					"name" : "LDSBR",
+					"strict" : false
+				},
+				{
+					"name" : "DIN1",
+					"strict" : false
+				},
+				{
+					"name" : "FETCH",
+					"strict" : false
+				},
+				{
+					"name" : "SAR0",
+					"strict" : false
+				},
+				{
+					"name" : "SAR1",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "CLR",
+					"strict" : false
+				},
+				{
+					"name" : "DIN0",
+					"strict" : false
+				},
+				{
+					"name" : "STORE",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

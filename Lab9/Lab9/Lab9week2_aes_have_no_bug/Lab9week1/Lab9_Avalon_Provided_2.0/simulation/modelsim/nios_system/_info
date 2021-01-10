@@ -1,0 +1,1910 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1606560304
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+Ig<^o;Pli`J@CRPH7Q8^7F3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1606226368
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1606560303.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z7 o-vlog01compat -work nios_system
+Z8 !s92 -vlog01compat -work nios_system {+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules}
+Z9 tCvgOpt 0
+valtera_avalon_st_clock_crosser
+Z10 !s110 1606560318
+!i10b 1
+!s100 YbU`iK^TYJ_9Hz`CZekjQ3
+IC6E_SCZzQNbGm;I=aQ@Ic0
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+Z11 !s108 1606560318.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_st_handshake_clock_crosser
+Z12 !s110 1606560317
+!i10b 1
+!s100 3f<J9K;e[9FU@JKn0^PK?0
+IOo9Nh3iWc]o@S5OE?jTM;3
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z13 L0 24
+R5
+r1
+!s85 0
+31
+Z14 !s108 1606560317.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arb_adder
+Z15 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z16 !s110 1606560320
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+I@N;KBd5SWTV]:GX8lJlEJ0
+R2
+Z17 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R3
+Z18 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+Z19 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+Z20 !s108 1606560320.000000
+Z21 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z23 o-sv -work nios_system
+Z24 !s92 -sv -work nios_system {+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules}
+R9
+valtera_merlin_arbitrator
+R15
+R16
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+I;Q2@LFH_O]m9eHIKbfz1F2
+R2
+R17
+S1
+R0
+R3
+R18
+R19
+L0 103
+R5
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R23
+R24
+R9
+valtera_merlin_burst_adapter
+R15
+Z25 !s110 1606560324
+!i10b 1
+!s100 OCc70X^k:B?GW6i71n`L_3
+I`a[YgF0[7z`H4VX_^OXE:2
+R2
+!s105 altera_merlin_burst_adapter_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter.sv
+R4
+R5
+r1
+!s85 0
+31
+Z26 !s108 1606560324.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_burst_adapter_uncompressed_only
+R15
+R25
+!i10b 1
+!s100 STH]BdUM[JDMJZNJGXCd>0
+ISPM[bhS:Bez7Ylo8=TX<:3
+R2
+!s105 altera_merlin_burst_adapter_uncmpr_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R26
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_burst_uncompressor
+R15
+Z27 !s110 1606560319
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+ID0:T3?Y;0OLFgj5][Nha`2
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+Z28 !s108 1606560319.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_master_agent
+R15
+Z29 !s110 1606560328
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+ISU96lILmYmUVn9nPi1cCV1
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+Z30 !s108 1606560328.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_master_translator
+R15
+Z31 !s110 1606560329
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+IUNEzcJ=8R;A>TY8@UE=7D2
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+L0 32
+R5
+r1
+!s85 0
+31
+Z32 !s108 1606560329.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_slave_agent
+R15
+Z33 !s110 1606560327
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+I]7Q`Z_00^78:>3NTb=`A=0
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+Z34 L0 34
+R5
+r1
+!s85 0
+31
+!s108 1606560327.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_slave_translator
+R15
+R29
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+I1D83JVAIg:NzXQJ0EO78J3
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R30
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_width_adapter
+R15
+R27
+!i10b 1
+!s100 QzdA5DP6CReOTH<9QzODa3
+I7donNOKE4Lf0;:O?>VIUo1
+R2
+!s105 altera_merlin_width_adapter_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_width_adapter.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_width_adapter.sv
+L0 25
+R5
+r1
+!s85 0
+31
+R28
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R23
+R24
+R9
+valtera_reset_controller
+Z35 !s110 1606560301
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+I;h5DbK>0GIic83Ie3^Ll;1
+R2
+R0
+Z36 w1606226365
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_controller.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z37 !s108 1606560301.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+Z38 !s110 1606560302
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+ImZ_=d7CzJ0IlKe][hE2mf0
+R2
+R0
+R36
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+R13
+R5
+r1
+!s85 0
+31
+Z39 !s108 1606560302.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+valtera_std_synchronizer_nocut
+R10
+!i10b 1
+!s100 b8zV2<79GgkNg0GC<P[GJ2
+IV`MZNf0VT:1mK?dm8e?O^2
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_std_synchronizer_nocut.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_std_synchronizer_nocut.v
+L0 44
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R7
+R8
+R9
+vavalon_aes_interface
+R15
+R31
+!i10b 1
+!s100 2<0o;9J>>k4oW5bnNlXc`1
+IJ5^5giU^Q]I5HN;jT3VYM1
+R2
+!s105 avalon_aes_interface_sv_unit
+S1
+R0
+Z40 w1606226350
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/avalon_aes_interface.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/avalon_aes_interface.sv
+R4
+R5
+r1
+!s85 0
+31
+R32
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/avalon_aes_interface.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/avalon_aes_interface.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system
+R35
+!i10b 1
+!s100 blXAR[UfT3AS?M@B8HO7Q2
+IXT?_@KhD]7GCcKLLz@O>82
+R2
+R0
+R40
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/nios_system.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/nios_system.v
+L0 6
+R5
+r1
+!s85 0
+31
+R37
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/nios_system.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/nios_system.v|
+!i113 1
+R7
+!s92 -vlog01compat -work nios_system {+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis}
+R9
+vnios_system_irq_mapper
+R15
+Z41 !s110 1606560316
+!i10b 1
+!s100 ekLngUQBfILnc?S<oQn9a1
+IiJBacaa8dgWnPL][bPB0N2
+R2
+!s105 nios_system_irq_mapper_sv_unit
+S1
+R0
+R36
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+Z42 !s108 1606560316.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_irq_mapper.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_jtag_uart_0
+Z43 !s110 1606560314
+!i10b 1
+!s100 Fm>ZJdEGihkV`?f6BLz:H0
+IRc3TcK2dh5HRijl6><f1[1
+R2
+R0
+R40
+Z44 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+Z45 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+L0 331
+R5
+r1
+!s85 0
+31
+Z46 !s108 1606560314.000000
+Z47 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v|
+Z48 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_jtag_uart_0_scfifo_r
+R43
+!i10b 1
+!s100 47KZM;KA2nU8Ze;ai4g7l3
+IZ1>9M[gNTi:9WaYVJXc?e3
+R2
+R0
+R40
+R44
+R45
+L0 243
+R5
+r1
+!s85 0
+31
+R46
+R47
+R48
+!i113 1
+R7
+R8
+R9
+vnios_system_jtag_uart_0_scfifo_w
+R43
+!i10b 1
+!s100 5`B6]mFoZZhff:NBY<]Fk2
+I2_XT11Ij8^XKM][OKBM2i3
+R2
+R0
+R40
+R44
+R45
+L0 78
+R5
+r1
+!s85 0
+31
+R46
+R47
+R48
+!i113 1
+R7
+R8
+R9
+vnios_system_jtag_uart_0_sim_scfifo_r
+R43
+!i10b 1
+!s100 YkRUSd:;8GKW7U=PAIGm80
+IO5:Wn<T:C=AOH>J=3@FH91
+R2
+R0
+R40
+R44
+R45
+L0 164
+R5
+r1
+!s85 0
+31
+R46
+R47
+R48
+!i113 1
+R7
+R8
+R9
+vnios_system_jtag_uart_0_sim_scfifo_w
+R43
+!i10b 1
+!s100 XFzYcMA6@JMe5hE`VK9ci3
+IEhfi>09Zeo37ZP6[3cm[k1
+R2
+R0
+R40
+R44
+R45
+R4
+R5
+r1
+!s85 0
+31
+R46
+R47
+R48
+!i113 1
+R7
+R8
+R9
+vnios_system_mm_interconnect_0
+R38
+!i10b 1
+!s100 44MiViobo`[d3h@Zkj40o0
+IhB>7N=C?mJYH^MN5kLYa[2
+R2
+R0
+R36
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R39
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_mm_interconnect_0_avalon_st_adapter
+!s110 1606560303
+!i10b 1
+!s100 FUH8SkjOaZNIW4`TjL<CB2
+I__DJ1F]ReVV3C^UhZ_7ET2
+R2
+R0
+w1606226369
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_mm_interconnect_0_avalon_st_adapter_006
+R38
+!i10b 1
+!s100 V_J=MKCXNIi4N8@>kTNWI0
+ITUhJ5F3Sb>WKFFl]12M_U0
+R2
+R0
+Z49 w1606226370
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006.v
+L0 9
+R5
+r1
+!s85 0
+31
+R39
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0
+R15
+R41
+!i10b 1
+!s100 8o@OWzPVb8oejQTNG8M9T1
+INSd2R8FYQz22;11Ti3dHd0
+R2
+!s105 nios_system_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0_sv_unit
+S1
+R0
+R49
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0.sv
+Z50 L0 66
+R5
+r1
+!s85 0
+31
+R42
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_006_error_adapter_0.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R15
+R12
+!i10b 1
+!s100 J9=Bfc65dnoL9<fggkKR[2
+I1n8W6@zMGKKh]C6o<D?IA3
+R2
+!s105 nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R49
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+R50
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_cmd_demux
+R15
+Z51 !s110 1606560323
+!i10b 1
+!s100 62M@CdDlbNF9;5_^V_N]h3
+I4U_`Vdc^]f7XXnO^LaY^c0
+R2
+!s105 nios_system_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+Z52 L0 43
+R5
+r1
+!s85 0
+31
+Z53 !s108 1606560323.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_cmd_demux_001
+R15
+R51
+!i10b 1
+!s100 _<EUzbci7A8U]cZj87P?e3
+II<B7IHD_liR]LfizQK:7A2
+R2
+!s105 nios_system_mm_interconnect_0_cmd_demux_001_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+R52
+R5
+r1
+!s85 0
+31
+R53
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_cmd_mux
+R15
+Z54 !s110 1606560322
+!i10b 1
+!s100 hoh4QRPc0gEbbc[890CYm1
+Ij=K6XThOh<[6XW8aQ5B5e2
+R2
+!s105 nios_system_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+Z55 L0 51
+R5
+r1
+!s85 0
+31
+Z56 !s108 1606560322.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_cmd_mux_002
+R15
+R54
+!i10b 1
+!s100 7;nFWVlUWKi=jkVhkT7993
+I41Ez7A311S04kA;UaL[6E1
+R2
+!s105 nios_system_mm_interconnect_0_cmd_mux_002_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_002.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_002.sv
+R55
+R5
+r1
+!s85 0
+31
+R56
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_002.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_002.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router
+R15
+R33
+!i10b 1
+!s100 FLc[5YSlU:D^;0loiz4::3
+IU?AXg:L0:6B=WG7[=zDg00
+R2
+Z57 !s105 nios_system_mm_interconnect_0_router_sv_unit
+S1
+R0
+R3
+Z58 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+Z59 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+Z60 L0 84
+R5
+r1
+!s85 0
+31
+Z61 !s108 1606560326.000000
+Z62 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv|
+Z63 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_001
+R15
+Z64 !s110 1606560326
+!i10b 1
+!s100 iXC5T[UDCNe_KCTofX3Fj1
+I`J3_TbjZnBNzmDVD87_Mh2
+R2
+Z65 !s105 nios_system_mm_interconnect_0_router_001_sv_unit
+S1
+R0
+R3
+Z66 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+Z67 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+R60
+R5
+r1
+!s85 0
+31
+R61
+Z68 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv|
+Z69 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_001_default_decode
+R15
+R64
+!i10b 1
+!s100 _6R8:NV:?G[:iZ<EJZ^LA2
+IQ]K<a4R7;H7Ki2S9jX_ek1
+R2
+R65
+S1
+R0
+R3
+R66
+R67
+Z70 L0 45
+R5
+r1
+!s85 0
+31
+R61
+R68
+R69
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_002
+R15
+R64
+!i10b 1
+!s100 95_YjVmdoRMC6bScoVb<f0
+INeL=I0Jb4Kz>^a@<0G;zf0
+R2
+Z71 !s105 nios_system_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R3
+Z72 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+Z73 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+R60
+R5
+r1
+!s85 0
+31
+R61
+Z74 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv|
+Z75 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_002_default_decode
+R15
+R64
+!i10b 1
+!s100 Ve3JPOKZ_MbYL8QAH:@b[0
+Iznk_G[?<OJ<flz5zEGL;O3
+R2
+R71
+S1
+R0
+R3
+R72
+R73
+R70
+R5
+r1
+!s85 0
+31
+R61
+R74
+R75
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_004
+R15
+Z76 !s110 1606560325
+!i10b 1
+!s100 HP5HTNDN[Ud6:adIP_bPY2
+IQ@^lQOKU;Pf?=1Yl7<0;g3
+R2
+Z77 !s105 nios_system_mm_interconnect_0_router_004_sv_unit
+S1
+R0
+R3
+Z78 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_004.sv
+Z79 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_004.sv
+R60
+R5
+r1
+!s85 0
+31
+Z80 !s108 1606560325.000000
+Z81 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_004.sv|
+Z82 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_004.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_004_default_decode
+R15
+R76
+!i10b 1
+!s100 Akzm@FidVm@aOkJm[iM2A0
+I71@H@W^H9hPI41EHU_EY82
+R2
+R77
+S1
+R0
+R3
+R78
+R79
+R70
+R5
+r1
+!s85 0
+31
+R80
+R81
+R82
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_008
+R15
+R76
+!i10b 1
+!s100 a>>9cB6M@O:oo;e@9nY@42
+IEZeOHV6P=9f3bZLhQMkXA0
+R2
+Z83 !s105 nios_system_mm_interconnect_0_router_008_sv_unit
+S1
+R0
+R3
+Z84 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_008.sv
+Z85 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_008.sv
+R60
+R5
+r1
+!s85 0
+31
+R80
+Z86 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_008.sv|
+Z87 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_008.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_008_default_decode
+R15
+R76
+!i10b 1
+!s100 6>kFM;H48lki:KPMFW1243
+I1KM_zoMT?<7^]a3QMKK<D2
+R2
+R83
+S1
+R0
+R3
+R84
+R85
+R70
+R5
+r1
+!s85 0
+31
+R80
+R86
+R87
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_router_default_decode
+R15
+R33
+!i10b 1
+!s100 X0>U4aJ4JSbXAe2IJGOn@2
+IDNP<:9Mbf8Wl1c`]cD_On1
+R2
+R57
+S1
+R0
+R3
+R58
+R59
+R70
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_rsp_demux
+R15
+R54
+!i10b 1
+!s100 Rf:9>QaE5ERE^DNUdPl=52
+IK^mXMSNz0;oG2emDQlmgA2
+R2
+!s105 nios_system_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+R52
+R5
+r1
+!s85 0
+31
+R56
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_rsp_demux_002
+R15
+Z88 !s110 1606560321
+!i10b 1
+!s100 WPc3L5V]USf[@VIfoGe_?2
+IiVYzo72:AV;hQDUhcGA[T3
+R2
+!s105 nios_system_mm_interconnect_0_rsp_demux_002_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_002.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_002.sv
+R52
+R5
+r1
+!s85 0
+31
+Z89 !s108 1606560321.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_002.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_002.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_rsp_mux
+R15
+R88
+!i10b 1
+!s100 TBaH_jL>Fd5cU@FE1l8nC2
+ImC7@@@2Sk@o?>F4m21CSm1
+R2
+!s105 nios_system_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+R55
+R5
+r1
+!s85 0
+31
+R89
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_mm_interconnect_0_rsp_mux_001
+R15
+R16
+!i10b 1
+!s100 [WU04OOe4IQo7LHa?bUTe0
+ImQiITU<<?Tb2KKz:?184E3
+R2
+!s105 nios_system_mm_interconnect_0_rsp_mux_001_sv_unit
+S1
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+R55
+R5
+r1
+!s85 0
+31
+R20
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R23
+R24
+R9
+vnios_system_nios2_gen2_0
+Z90 !s110 1606560309
+!i10b 1
+!s100 HL>7H^Hn_a^b]`lcfPc3?3
+I[FVAE^f4KZC>Tn;HbP>CC0
+R2
+R0
+Z91 w1606226351
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+Z92 !s108 1606560309.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu
+Z93 !s110 1606560310
+!i10b 1
+!s100 FbzKg2k5aPI>g]K`R3gcm2
+IhWC]E?]aEULKE<l4lXboI0
+R2
+R0
+R3
+Z94 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.v
+Z95 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+Z96 !s108 1606560310.000000
+Z97 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.v|
+Z98 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_debug_slave_sysclk
+Z99 !s110 1606560312
+!i10b 1
+!s100 lddF<iT4]ob]jOhjW7a770
+IEah`O:eYJ8[7XZK@hREz=2
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+Z100 !s108 1606560312.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_debug_slave_tck
+R99
+!i10b 1
+!s100 G05UPZ[hUWXgI]]0_E:;V0
+I>HnUV2=<d<BOI4lDnKPPR0
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_tck.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+R100
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_debug_slave_wrapper
+Z101 !s110 1606560313
+!i10b 1
+!s100 PQ<aWHFc5`^3>WjSV=oM70
+Im39bjI<N[KV9LUA]bfO]j2
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+Z102 !s108 1606560313.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_avalon_reg
+R93
+!i10b 1
+!s100 h][6LE@R4e^gB`9;jndoO1
+ITXMT9GAVIcZOc[=j7CKK`1
+R2
+R0
+R3
+R94
+R95
+L0 2023
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci
+R93
+!i10b 1
+!s100 bMmf^cLQSiG3z_IYfWf:F3
+IkLi21^?];joHToBP]]T;B0
+R2
+R0
+R3
+R94
+R95
+L0 2362
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_break
+R93
+!i10b 1
+!s100 80B>0i:EiBd:UUF8YJ4S]2
+Ic1L0P;F[zlQSiWQElQBXP1
+R2
+R0
+R3
+R94
+R95
+L0 295
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R93
+!i10b 1
+!s100 ca@:;CFJ>13f7=8mhdb^]2
+I:RZ5hEEejbM[VkP<UIf6l1
+R2
+R0
+R3
+R94
+R95
+L0 1265
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_dbrk
+R93
+!i10b 1
+!s100 TNl`cebTIP_^X:U32[XcR2
+I>5P=ne]ibBG^NkYU8U@NQ1
+R2
+R0
+R3
+R94
+R95
+L0 795
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_debug
+R93
+!i10b 1
+!s100 LmBmnklWB6[g0KNCDfiea1
+ICHYHIgKESoEgL>K5:10]22
+R2
+R0
+R3
+R94
+R95
+L0 153
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_dtrace
+R93
+!i10b 1
+!s100 4F]_BfzZ1?jINc]2eIeMi1
+IB]zY=BdKR^f>FMWBZ07i;3
+R2
+R0
+R3
+R94
+R95
+L0 1183
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_fifo
+R93
+!i10b 1
+!s100 RC2Cgj?EDn7TO?gSX?>E:0
+IXUo2_5f;]<<T[]^C2Ro:G2
+R2
+R0
+R3
+R94
+R95
+L0 1427
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R93
+!i10b 1
+!s100 X3G]dDNjgo18H:OO;c3nm3
+Ie7Mm@jGP@Z55AK2e_3hEL3
+R2
+R0
+R3
+R94
+R95
+L0 1380
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R93
+!i10b 1
+!s100 :a=RQOk:@]98Tn`nA@HZT3
+I;PDR`[7FbkbT_5YmLKlEE1
+R2
+R0
+R3
+R94
+R95
+L0 1337
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_im
+R93
+!i10b 1
+!s100 Sl<jo]R]TYfHa`AFFoj370
+I4F[4;Q3JIC3U1A]MVb:[h1
+R2
+R0
+R3
+R94
+R95
+L0 1936
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_itrace
+R93
+!i10b 1
+!s100 KemlV>eZSiE7?JPo6CiTg0
+IP2SzEgih;R1oId@4gUShU3
+R2
+R0
+R3
+R94
+R95
+L0 982
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_pib
+R93
+!i10b 1
+!s100 VHLkZSTVbLJl4jNhi>kk>3
+I5E4Z@6]Bo8RlGieV`koHl2
+R2
+R0
+R3
+R94
+R95
+L0 1913
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_td_mode
+R93
+!i10b 1
+!s100 Fc7=;IjO2UQc9On]U6F9z1
+I=@;AEQ]1XVXW@=X9Y?fKC3
+R2
+R0
+R3
+R94
+R95
+L0 1115
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_oci_xbrk
+R93
+!i10b 1
+!s100 ;j]W:<6=cQ^5BcVX`0z<n0
+I2Y3MQNhV4Z_MAF7P?UbgN1
+R2
+R0
+R3
+R94
+R95
+L0 588
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_ocimem
+R93
+!i10b 1
+!s100 j^b<0B_YXCccX8KTDV7a61
+IFQk]`O[ODVn5??M7;6@=K3
+R2
+R0
+R3
+R94
+R95
+L0 2181
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_nios2_performance_monitors
+R93
+!i10b 1
+!s100 _5Q0GnXJ<AUEFPEd<3G6D3
+Im2z[29J3@co4Xd:Bj177H2
+R2
+R0
+R3
+R94
+R95
+L0 2006
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_ociram_sp_ram_module
+R93
+!i10b 1
+!s100 =<O3ITm^4VBF?gQjFNh771
+I7F^lHE4ZYI8LI@bo`SJTE1
+R2
+R0
+R3
+R94
+R95
+L0 2116
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_register_bank_a_module
+R93
+!i10b 1
+!s100 J^SfTJNm?64YM4F7>?l>[3
+I6Z^_F:OEVOg4Uc1<Tj6Y_2
+R2
+R0
+R3
+R94
+R95
+R4
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_register_bank_b_module
+R93
+!i10b 1
+!s100 VUS3PCAEGI:FX7QChh0l93
+I=a<kHXD0lgL@`l>^m;]4D1
+R2
+R0
+R3
+R94
+R95
+L0 87
+R5
+r1
+!s85 0
+31
+R96
+R97
+R98
+!i113 1
+R7
+R8
+R9
+vnios_system_nios2_gen2_0_cpu_test_bench
+R101
+!i10b 1
+!s100 IWbWBj4PKo>N?:mU@I=4:0
+InaA?k3JLz60^MCQETb1Gi1
+R2
+R0
+R3
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_test_bench.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+R102
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_onchip_memory2_0
+R90
+!i10b 1
+!s100 0]=KV6=J6Hf@^GUDNMKFN1
+IJ]gG0bFcBG=UbB?7PZicU3
+R2
+R0
+R91
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+R92
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_sdram
+Z103 !s110 1606560306
+!i10b 1
+!s100 IK5;<Ml_gHMYbAi`jDN2T0
+IPaOhHamH0dZ_9JckaN;<f1
+R2
+R0
+Z104 w1606226352
+Z105 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram.v
+Z106 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+Z107 !s108 1606560305.000000
+Z108 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram.v|
+Z109 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_sdram_input_efifo_module
+R103
+!i10b 1
+!s100 Ya;0m;_HhM7Y`=0?]M?J61
+I8l0nG^LP`gJXz5lTZ<QJb1
+R2
+R0
+R104
+R105
+R106
+R4
+R5
+r1
+!s85 0
+31
+R107
+R108
+R109
+!i113 1
+R7
+R8
+R9
+vnios_system_sdram_pll
+Z110 !s110 1606560305
+!i10b 1
+!s100 6;^DX4^;[WKnWC?4n<NlF3
+I2l<<j>ADTd<4^Bg8znL2C3
+R2
+R0
+Z111 w1606226353
+Z112 8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+Z113 FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+R107
+Z114 !s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram_pll.v|
+Z115 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sdram_pll.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_sdram_pll_altpll_lqa2
+R110
+!i10b 1
+!s100 cL]6K0SmBVdS15ia2T;V61
+IjMRNIT<h@57U<mWdiYYBb1
+R2
+R0
+R111
+R112
+R113
+L0 130
+R5
+r1
+!s85 0
+31
+R107
+R114
+R115
+!i113 1
+R7
+R8
+R9
+vnios_system_sdram_pll_dffpipe_l2c
+R110
+!i10b 1
+!s100 _n_B8]=EeDCO5ZYUFB5MQ1
+Io5LN5@hFU6N=2:MOND3[U0
+R2
+R0
+R111
+R112
+R113
+L0 37
+R5
+r1
+!s85 0
+31
+R107
+R114
+R115
+!i113 1
+R7
+R8
+R9
+vnios_system_sdram_pll_stdsync_sv6
+R110
+!i10b 1
+!s100 9<AK0>a0]bcz:GIa>e[af2
+I;JfLKO071]_0DoP^j^dec1
+R2
+R0
+R111
+R112
+R113
+L0 98
+R5
+r1
+!s85 0
+31
+R107
+R114
+R115
+!i113 1
+R7
+R8
+R9
+vnios_system_sysid_qsys_0
+R1
+!i10b 1
+!s100 CB5>>]W0UMLVjjnNmemzV3
+I<AcmhiE27k>DK;7]D?8[S3
+R2
+R0
+R111
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+R34
+R5
+r1
+!s85 0
+31
+Z116 !s108 1606560304.000000
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v|
+!i113 1
+R7
+R8
+R9
+vnios_system_timer_0
+R1
+!i10b 1
+!s100 <K7zFVnMTPVCA7zDeOSLd2
+IW9e5l`ifo:Zl:mIPoUFUQ1
+R2
+R0
+R111
+8D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_timer_0.v
+FD:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_timer_0.v
+R4
+R5
+r1
+!s85 0
+31
+R116
+!s107 D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_timer_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules|D:/OneDrive - International Campus, Zhejiang University/ece385/Lab9week2nodebug/Lab9week1/Lab9_Avalon_Provided_2.0/nios_system/synthesis/submodules/nios_system_timer_0.v|
+!i113 1
+R7
+R8
+R9

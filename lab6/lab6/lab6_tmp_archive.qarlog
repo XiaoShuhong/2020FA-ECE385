@@ -1,0 +1,37 @@
+Quartus Prime Archive log --	D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/lab6_tmp_archive.qarlog
+
+Archive:	D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/lab6_tmp_archive.qar
+Date:		Tue Nov 03 19:36:01 2020
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/HexDriver.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/IR_datapath.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/ISDU.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/Mem2IO.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/NZP.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/Register_ALU.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/SLC3_2.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/Synchronizers.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/clock.sdc
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/lab6.qpf
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/lab6.qsf
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/lab6_toplevel.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/memory_contents.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/memory_datapath.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/slc3.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/test_memory.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/testbench_week1.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/testbench_week2.sv
+D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/tristate.sv
+d:/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 20 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Tue Nov 03 19:36:07 2020
+Source archive file:	D:/OneDrive - International Campus, Zhejiang University/ece385/lab6/lab6/lab6_tmp_archive.qar
+Archive was extracted into	F:/ECE385_lab6/Lu_yicheng-xiao_shuhong/
+		 - successfully.

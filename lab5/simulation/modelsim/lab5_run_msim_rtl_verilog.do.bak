@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+D:/OneDrive\ -\ International\ Campus,\ Zhejiang\ University/mycode/quartus/lab5 {D:/OneDrive - International Campus, Zhejiang University/mycode/quartus/lab5/register.sv}
+

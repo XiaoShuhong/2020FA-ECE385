@@ -1,0 +1,60 @@
+module testbench();
+
+timeunit 10ns;	
+	
+timeprecision 1ns;
+
+logic Clk = 0;
+
+logic  Reset_all ,clear_XA, Load_B, Load_XA,Shift_En;
+logic   x;
+logic[7:0]   A;
+logic[7:0]   B;					
+logic M;
+logic [16:0]  Data_Out;
+				  
+
+
+always begin : CLOCK_GENERATION
+#1 Clk = ~Clk;
+end
+
+initial begin: CLOCK_INITIALIZATION
+    Clk = 0;
+end 
+
+
+
+
+
+
+
+
+
+
+
+
+initial begin: 
+
+Reset_all=1;
+clear_XA=0;
+Load_B=0;
+Load_XA=0;
+Shift_En=0;
+
+#2
+
+Reset_all=0;
+Load_B=1;
+B=8b'00000001;	
+ 
+#2
+
+Load_XA=1;
+logic   x;
+logic[7:0]   A;
+
+
+
+end
+endmodule

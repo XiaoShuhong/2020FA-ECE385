@@ -1,0 +1,4 @@
+module IR_datapath(input logic GATEMARMUX,GATEPC,LD_PC,ADDR1MUX,LD_IR,SR1OUT,
+						 input logic[1:0]PCMUX,ADDR2MUX,
+						 output logic[15:0]IR,
+						 inout wire[15:0] BUS);

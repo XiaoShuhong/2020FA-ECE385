@@ -1,0 +1,153 @@
+module top_level(
+
+input logic[7:0] S,
+input logic Clk,Reset,Run,ClearA_LoadB,
+
+
+output logic[6:0] AhexU,AhexU,nBhexL,
+output logic[7:0] Aval,Bval,
+output logic X
+
+);
+
+
+
+
+//////////////////////////
+
+//control's output
+logic add;
+logic sub;
+logic shift;
+logic clear_XA;
+logic clr_ld;
+logic reset_out;
+
+/////////////////////////
+
+//register's output
+
+
+logic m;
+logic all_data;
+
+//register's input
+
+logic Load_XA;
+logic x;
+logic A;
+logic B;
+/////////////////
+
+//adder's output
+logic[8:0] adder_result;
+
+
+
+//adder's input
+logic [7:0] s_adder;
+
+
+
+
+
+
+
+module register my_register ( 
+							input  logic .Clk(Clk),
+							.Reset_all(reset_out) ,
+							.clear_XA(clear_XA), 
+							.Load_B(clr_ld), 
+							.Load_XA(Load_XA),
+							.Shift_En(shift),
+							input  logic   .x(adder_result[8]),
+							input  logic[7:0]   .A(adder_result[]7:0),
+							input  logic[7:0]   .B(S),
+							
+							
+							
+							output logic .M(m),
+							output logic [16:0]  .Data_Out(all_data)
+				  
+);
+
+
+
+
+
+module adder my_adder(
+
+
+
+							input logic[7:0] .S(s_adder),
+							input logic[7:0] .A(all_data[15:8]),
+							input logic .sub(sub),
+
+
+							output logic[8:0] .result(adder_result)
+
+
+);
+
+
+
+
+
+module control my_control(
+
+
+							input logic .run(Run),
+							input logic .clearA_loadB(ClearA_LoadB),
+							input logic .Clk(Clk),
+							input logic .reset(Reset),
+
+
+
+							output logic .add(add),
+							output logic .sub(sub),
+							output logic .shift(shift),
+							output logic .clear_XA(clear_XA),
+							output logic .clr_ld(clr_ld),
+							output logic .reset_out(reset_out),
+
+						
+);
+
+
+
+
+
+
+
+always_comb begin
+
+if(m && add)
+	s_adder=S;
+else
+	s_adder=8'b00000000;
+	
+
+
+
+
+
+
+
+
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+endmodule

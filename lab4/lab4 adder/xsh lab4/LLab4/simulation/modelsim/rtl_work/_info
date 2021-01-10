@@ -1,0 +1,212 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/2020FA/ECE385/xsh lab4/LLab4/simulation/modelsim
+vcarry_select_adder
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1602637299
+!i10b 1
+!s100 F5dWKKU:lkZ9R9R9fdYGJ2
+IlI[0m?S^Jm_<7>b6aWmec2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 carry_select_adder_sv_unit
+S1
+R0
+Z5 w1602556882
+Z6 8D:/2020FA/ECE385/xsh lab4/LLab4/carry_select_adder.sv
+Z7 FD:/2020FA/ECE385/xsh lab4/LLab4/carry_select_adder.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1602637299.000000
+Z10 !s107 D:/2020FA/ECE385/xsh lab4/LLab4/carry_select_adder.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/2020FA/ECE385/xsh lab4/LLab4|D:/2020FA/ECE385/xsh lab4/LLab4/carry_select_adder.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work {+incdir+D:/2020FA/ECE385/xsh lab4/LLab4}
+Z14 tCvgOpt 0
+vfour_bits_CSA
+R1
+R2
+!i10b 1
+!s100 Ane26z]m1=?WknGFUPXS30
+IRmCJT@U^PGzJ3kHj[k:>M3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 26
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+nfour_bits_@c@s@a
+vfour_bits_ripple_adder
+R1
+R2
+!i10b 1
+!s100 fCHiE[]dgPH@5eL1Q2W4W2
+IN635SCN8eeAY2RoYNmIR:2
+R3
+Z15 !s105 ripple_adder_sv_unit
+S1
+R0
+Z16 w1602557203
+Z17 8D:/2020FA/ECE385/xsh lab4/LLab4/ripple_adder.sv
+Z18 FD:/2020FA/ECE385/xsh lab4/LLab4/ripple_adder.sv
+L0 39
+R8
+r1
+!s85 0
+31
+R9
+Z19 !s107 D:/2020FA/ECE385/xsh lab4/LLab4/ripple_adder.sv|
+Z20 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/2020FA/ECE385/xsh lab4/LLab4|D:/2020FA/ECE385/xsh lab4/LLab4/ripple_adder.sv|
+!i113 1
+R12
+R13
+R14
+vfull_adder
+R1
+R2
+!i10b 1
+!s100 nDQNzd^zWbFkPN;nCA^^91
+IAG9ceK>0QWB0hAgMT?NSE0
+R3
+R15
+S1
+R0
+R16
+R17
+R18
+L0 28
+R8
+r1
+!s85 0
+31
+R9
+R19
+R20
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+IccFX^Xk?J@OGlG_hEI2km2
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1453932322
+8D:/2020FA/ECE385/xsh lab4/LLab4/HexDriver.sv
+FD:/2020FA/ECE385/xsh lab4/LLab4/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/2020FA/ECE385/xsh lab4/LLab4/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/2020FA/ECE385/xsh lab4/LLab4|D:/2020FA/ECE385/xsh lab4/LLab4/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vlab4_adders_toplevel
+R1
+R2
+!i10b 1
+!s100 JD[>08GCoFfH65EZ1jaIE3
+INjm6[7m9jBlg1[h23`fz23
+R3
+!s105 lab4_adders_toplevel_sv_unit
+S1
+R0
+w1602637249
+8D:/2020FA/ECE385/xsh lab4/LLab4/lab4_adders_toplevel.sv
+FD:/2020FA/ECE385/xsh lab4/LLab4/lab4_adders_toplevel.sv
+L0 17
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/2020FA/ECE385/xsh lab4/LLab4/lab4_adders_toplevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/2020FA/ECE385/xsh lab4/LLab4|D:/2020FA/ECE385/xsh lab4/LLab4/lab4_adders_toplevel.sv|
+!i113 1
+R12
+R13
+R14
+vripple_adder
+R1
+R2
+!i10b 1
+!s100 iG`U1kQoDo6nWHJmnNiOE1
+IjcSTLfH>on3_?07S]FaIR2
+R3
+R15
+S1
+R0
+R16
+R17
+R18
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R19
+R20
+!i113 1
+R12
+R13
+R14
+vtestbench
+R1
+R2
+!i10b 1
+!s100 cHn3>7M4Azd4N4L[hSH[D1
+I3R=EV4XPT1<g^nnXakJ8B0
+R3
+!s105 testbench_adder20_sv_unit
+S1
+R0
+w1602636483
+8D:/2020FA/ECE385/xsh lab4/LLab4/testbench_adder .sv
+FD:/2020FA/ECE385/xsh lab4/LLab4/testbench_adder .sv
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/2020FA/ECE385/xsh lab4/LLab4/testbench_adder .sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/2020FA/ECE385/xsh lab4/LLab4|D:/2020FA/ECE385/xsh lab4/LLab4/testbench_adder .sv|
+!i113 1
+R12
+R13
+R14
